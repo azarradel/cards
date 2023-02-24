@@ -44,7 +44,20 @@ nav a{
     border-radius: 15px 0px 0px 15px;
    background-repeat: no-repeat;
 }
-
+.left2{
+    background-image: url('/img/lirio\,\ rosa.jpg');
+    background-size: cover;
+    width: 50%;
+    border-radius: 15px 0px 0px 15px;
+   background-repeat: no-repeat;
+}
+.left3{
+    background-image: url('/img/girassol.webp');
+    background-size: cover;
+    width: 50%;
+    border-radius: 15px 0px 0px 15px;
+   background-repeat: no-repeat;
+}
 .right{
     padding: 15px;
     background-color: rgb(68, 250, 68);
